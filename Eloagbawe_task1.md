@@ -1,4 +1,4 @@
-Full Name: Agbawe Elo
+Full Name: Elo Agbawe
 Email Address: eloagbawe@gmail.com
 Slack Username: Eloagbawe
 Tracks: Frontend, Backend

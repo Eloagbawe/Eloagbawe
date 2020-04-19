@@ -9,7 +9,7 @@ function checkDivisibilty(x){
     var myArray = [];
 
  // looping through the range of numbers and checking their divisibility
- 
+
     for (var i = 1; i <= x; i++){
          //checking if the number is divible by 2, 3 and 5
         if ((i % 2 === 0) && (i % 3 === 0) && (i % 5===0)){
@@ -44,7 +44,7 @@ function checkDivisibilty(x){
             myArray.push(i);
         }
     }
-    document.write("Passing " + x + " into the function, The resulting array is [" + myArray +"]" +"<br/>" + "<br/>");
+    document.write("Passing " + x + " into the function, The resulting array is [ " + myArray +" ] <br/> <br/>");
     console.log(myArray);
     return(myArray);
 }

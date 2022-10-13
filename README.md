@@ -15,5 +15,6 @@
 
 <br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eloagbawe&theme=dark" alt="eloagbawe" /></p>
 
 <a href="https://github.com/Eloagbawe/github-readme-activity-graph"><img alt="Elo Agbawe' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Eloagbawe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
